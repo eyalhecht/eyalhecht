@@ -1,4 +1,4 @@
-Hi, I'm Eyal, a full-stack engineer.
+Hi, I'm Eyal, a full-stack engineer who takes products from first idea to production on my own.
 
 At Clarivate I build AI-powered features end to end, from the React UI to the backend and the cloud setup behind them, with accessibility built in.
 
