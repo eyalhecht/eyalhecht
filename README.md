@@ -9,7 +9,7 @@ Things I've built:
 - [Overhead](https://github.com/eyalhecht/overhead): an iPhone Lock Screen card for the plane flying over you. TypeScript, React Native (Expo), iOS Live Activities, Node.js + Express, zod, SQLite, Apple Push (HTTP/2).
 - Fast Lane: a GitHub Action that tells you which pull requests need a careful human review and which are safe to merge. It checks how much of the codebase depends on the files each PR changes. TypeScript, ts-morph, Claude and OpenAI APIs, GitHub Actions.
 - [AIA](https://github.com/eyalhecht/AIA): rebuilds any web page as a version that passes axe-core accessibility checks. TypeScript, Playwright, axe-core.
-- Podcast Director: a live AI director for podcasters (in progress). Python, FastAPI, LangGraph, Deepgram speech-to-text, OpenAI, React + Vite + Tailwind.
+- [Podcast Director](https://github.com/eyalhecht/podcast-director): a live AI director for podcasters (in progress). Python, FastAPI, LangGraph, Deepgram speech-to-text, OpenAI, React + Vite + Tailwind.
 
 Most of these repos are private. I'm happy to walk through any of them, just email me at [eyalhe3@gmail.com](mailto:eyalhe3@gmail.com).
 
