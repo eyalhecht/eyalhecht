@@ -11,8 +11,8 @@ Things I've built:
 - AIA: rebuilds any web page as a version that passes axe-core accessibility checks. TypeScript, Playwright, axe-core.
 - Podcast Director: a live AI director for podcasters (in progress). Python, FastAPI, LangGraph, Deepgram speech-to-text, OpenAI, React + Vite + Tailwind.
 
-Most of these repos are private. I'm happy to walk through any of them.
+Most of these repos are private. I'm happy to walk through any of them, just email me at [eyalhe3@gmail.com](mailto:eyalhe3@gmail.com).
 
 TypeScript, JavaScript, Python, React, React Native, Node.js, FastAPI, PostgreSQL, GCP, LangChain, LangGraph, Playwright.
 
-[LinkedIn](https://www.linkedin.com/in/eyal-hecht-52a79a21a)
+[eyalhe3@gmail.com](mailto:eyalhe3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/eyal-hecht-52a79a21a)
